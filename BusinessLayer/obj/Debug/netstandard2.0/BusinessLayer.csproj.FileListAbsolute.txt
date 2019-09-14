@@ -1,0 +1,9 @@
+C:\Sarma\Misc\ProjectManager\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.deps.json
+C:\Sarma\Misc\ProjectManager\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.dll
+C:\Sarma\Misc\ProjectManager\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csprojAssemblyReference.cache
+C:\Sarma\Misc\ProjectManager\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Sarma\Misc\ProjectManager\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Sarma\Misc\ProjectManager\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfo.cs
+C:\Sarma\Misc\ProjectManager\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.pdb
+C:\Sarma\Misc\ProjectManager\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.dll
+C:\Sarma\Misc\ProjectManager\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.pdb
